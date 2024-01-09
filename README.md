@@ -5,7 +5,7 @@ Link to hosted website - https://shopit-ecommerce-website-gess.onrender.com/
 
 
 This is an e-commerce website made using MERN stack with JWT authentication for user login and registration and facility to have a cart, and also equipped with a payment gateway for payments.
-**Tech Stack USed - HTML, CSS, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB**
+**Tech Stack Used - HTML, CSS, Bootstrap, ReactJS, NodeJS, ExpressJS, MongoDB**
 
 - All the details of products, orders, and users registered with the website is stored in MongoDB database.
 - Users can register and login and perform common e-commerce facilities.
